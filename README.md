@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning  **ReactJs**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking forward to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shaikakbarbasha38@gmail.com**
 
-- ⚡ Fun fact **I play games espicially Kabaddi,volleyball and read books.**
+- ⚡ Fun fact **I play games espicially Kabaddi,volleyball and read books**
 
 ## 🚀 Languages and Tools:
 

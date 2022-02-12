@@ -12,7 +12,7 @@
 
 - 👯 I’m looking forward to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]**
+- 👨‍💻 All of my projects are available at **[https://quirky-bassi-fa40b4.netlify.app/#projects]**
 
 - 📫 How to reach me **shaikakbarbasha38@gmail.com**
 

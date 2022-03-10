@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning  **ReactJs**
+- 🔭 I’m currently learning  **ReactJs** && **Redux**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
